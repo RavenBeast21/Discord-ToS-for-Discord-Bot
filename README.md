@@ -1,69 +1,68 @@
 # Discord Bot Legal Pages Template
 
-This repository is a ready-to-use template for Discord bot developers who need public legal pages for their bot.
-It contains a Terms of Service page and a Privacy Policy page in HTML format, designed to be hosted publicly with GitHub Pages.
-The purpose of this repository is to help bot owners quickly create legal document links they can provide to Discord in the Developer Portal or App Directory submission process.
+This repository is a reusable template for Discord bot developers who need public legal pages for their bot.
+
+It includes:
+
+- a homepage
+- a Terms of Service page
+- a Privacy Policy page
+- setup instructions
+
+These files are meant to be hosted publicly with GitHub Pages so developers can submit the public links to Discord.
+
+## Purpose of this repository
+
+This repository exists to help Discord bot owners quickly create and publish legal documents for their bot.
+
+Many Discord applications need public legal links, especially for developer submissions, verification, or App Directory use.
+
+This repository gives users a simple starting point.
 
 ## What this repository includes
-
-This repository usually contains:
 
 - `index.html`
 - `terms-of-service.html`
 - `privacy-policy.html`
 - `README.md`
 
-### File overview
+## File overview
 
-#### `index.html`
-This is the homepage of the legal site.  
-It usually contains links to the Terms of Service and Privacy Policy pages.
+### `index.html`
+This is the homepage of the legal site.
 
-#### `terms-of-service.html`
-This file contains the Terms of Service template for a Discord bot.
+It explains what the repository is and links to the Terms of Service and Privacy Policy pages.
 
-#### `privacy-policy.html`
-This file contains the Privacy Policy template for a Discord bot.
+### `terms-of-service.html`
+This file contains the Terms of Service template.
 
-#### `README.md`
-This file explains what the repository is, how to use it, and what needs to be edited before publishing.
+It explains the general rules for using a Discord bot, acceptable use, service availability, liability limits, and contact information.
+
+### `privacy-policy.html`
+This file contains the Privacy Policy template.
+
+It explains what information a bot might collect, how it might use it, how long it might keep it, and how users can request deletion or support.
+
+### `README.md`
+This file explains how the repository works and how users should edit and publish it.
 
 ## Who this repository is for
 
 This repository is for:
 
 - Discord bot developers
-- people submitting a bot to Discord
-- people who need public policy links for their app
-- developers who want a simple GitHub Pages setup
-- beginners who want a legal page template they can edit
+- people creating public legal pages for their bot
+- beginners using GitHub Pages
+- developers who want a reusable template
+- users who need Terms of Service and Privacy Policy links for Discord
 
-## What this repository does
+## What users must do before publishing
 
-This repository gives users a simple way to:
+This repository is a template.
 
-1. copy the template
-2. edit the legal placeholders
-3. publish the files with GitHub Pages
-4. get public links
-5. submit those links to Discord
+It is not ready for direct use without editing.
 
-## Important note before using
-
-This repository is a template.  
-It is not final legal advice.
-
-Every bot is different.
-
-Some bots collect no stored data.  
-Some bots store user IDs, guild IDs, commands, moderation logs, analytics, or message content.  
-Because of this, every user must review and edit the files before publishing them.
-
-Do not publish the templates without replacing the placeholder sections.
-
-## What users need to edit
-
-Before publishing, users should replace all placeholder text such as:
+Each user must replace all placeholder text such as:
 
 - `[Bot Name]`
 - `[Owner Name]`
@@ -72,71 +71,28 @@ Before publishing, users should replace all placeholder text such as:
 - `[Support Server Link]`
 - `[Country/State]`
 - `[Location]`
-- `[Effective Date]`
-- `[Last Updated Date]`
-- `[Data Retention Period]`
+- dates
+- retention periods
+- payment terms
 - feature descriptions
-- payment terms if applicable
-- liability cap amount if applicable
+- third-party providers
 
-Users should also remove any section that does not apply to their bot.
+Users must also remove sections that do not apply to their bot.
 
-## Recommended use
+## Important legal note
 
-This repository is best used as a public legal site for one Discord bot or as a reusable base template for multiple bot owners.
+This repository is a starting point only.
 
-A user can either:
+It does not replace legal advice.
 
-- fork this repository
-- clone this repository
-- download the files and upload them into their own repository
+Every Discord bot is different.
 
-## How to use this repository
+Some bots store no long-term data.
+Some bots store user IDs, guild IDs, logs, settings, support records, message content, analytics, payments, or AI prompts.
 
-### Step 1
-Create a new public GitHub repository.
+Because of this, users are responsible for checking that the legal pages match what their bot truly does.
 
-Example names:
-
-- `bot-legal`
-- `discord-bot-legal`
-- `mybot-policies`
-
-### Step 2
-Upload or paste the files from this template into the repository.
-
-### Step 3
-Edit the HTML files and replace all placeholder values with real details.
-
-### Step 4
-Enable GitHub Pages.
-
-Go to:
-
-`Settings > Pages`
-
-Then choose:
-
-- Source: `Deploy from a branch`
-- Branch: `main`
-- Folder: `/root`
-
-### Step 5
-Save the settings and wait for GitHub Pages to publish the site.
-
-### Step 6
-Open the public URLs.
-
-Example:
-
-- `https://yourusername.github.io/your-repository-name/`
-- `https://yourusername.github.io/your-repository-name/terms-of-service.html`
-- `https://yourusername.github.io/your-repository-name/privacy-policy.html`
-
-### Step 7
-Paste the Terms of Service link and Privacy Policy link into the Discord Developer Portal.
-
-## Example repository structure
+## Recommended repository structure
 
 ```text
 discord-bot-legal/
