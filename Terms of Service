@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>[Bot Name] Terms of Service</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    a {
+      color: #0b57d0;
+    }
+    .muted {
+      color: #666;
+    }
+    .box {
+      background: #f6f8fa;
+      border: 1px solid #d0d7de;
+      padding: 16px;
+      border-radius: 8px;
+    }
+    code {
+      background: #f0f0f0;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>[Bot Name] Terms of Service</h1>
+  <p class="muted">Effective date: [Month Day, Year]</p>
+  <p class="muted">Last updated: [Month Day, Year]</p>
+
+  <div class="box">
+    <p>
+      These Terms of Service govern your access to and use of <strong>[Bot Name]</strong>
+      and any related services operated by <strong>[Owner Name or Organization Name]</strong>.
+      By using the bot, you agree to these Terms.
+    </p>
+  </div>
+
+  <h2>1. About the Service</h2>
+  <p>
+    <strong>[Bot Name]</strong> is a Discord bot and related service made available to users and
+    server administrators for features such as [insert main features here, for example moderation,
+    utility commands, music, logging, tickets, analytics, or automation].
+  </p>
+  <p>
+    The bot is provided through Discord and may also include a website, dashboard, support server,
+    or other related tools and services.
+  </p>
+
+  <h2>2. Eligibility</h2>
+  <p>
+    You must comply with Discord’s Terms of Service, Community Guidelines, Developer rules,
+    and all applicable laws and regulations when using this bot.
+  </p>
+  <p>
+    If you use the bot on behalf of a server, organization, or other entity, you confirm that you
+    have authority to accept these Terms on its behalf.
+  </p>
+
+  <h2>3. Acceptable Use</h2>
+  <p>You agree not to use the bot to:</p>
+  <ul>
+    <li>Violate any law, regulation, or third-party right.</li>
+    <li>Harass, abuse, threaten, spam, or harm others.</li>
+    <li>Infringe intellectual property rights.</li>
+    <li>Attempt unauthorized access to systems, accounts, tokens, data, or networks.</li>
+    <li>Exploit bugs, bypass limitations, or interfere with normal operation of the bot.</li>
+    <li>Use the bot for malware, phishing, scams, fraud, or deceptive activity.</li>
+    <li>Abuse rate limits, automate abuse, or overload the service.</li>
+    <li>Use the bot in a way that violates Discord platform rules.</li>
+  </ul>
+
+  <h2>4. Server Administrator Responsibility</h2>
+  <p>
+    If you add <strong>[Bot Name]</strong> to a Discord server, you are responsible for ensuring
+    that you have authority to do so and for configuring the bot appropriately for your community.
+  </p>
+  <p>
+    Server owners and administrators are responsible for how they use bot features, commands,
+    automations, moderation actions, logging, and permissions inside their servers.
+  </p>
+
+  <h2>5. User Content and Inputs</h2>
+  <p>
+    You retain responsibility for any text, commands, files, settings, server content, or other data
+    you submit to the bot. You confirm that you have the necessary rights to submit such content.
+  </p>
+  <p>
+    You must not submit unlawful, infringing, abusive, or harmful content through the bot.
+  </p>
+
+  <h2>6. Bot Responses and Actions</h2>
+  <p>
+    The bot may process commands and generate outputs automatically. While we aim for reliability,
+    outputs, automations, moderation actions, logs, or generated responses may contain errors,
+    omissions, or unwanted results.
+  </p>
+  <p>
+    You are responsible for reviewing and using outputs at your own risk.
+  </p>
+
+  <h2>7. Data and Privacy</h2>
+  <p>
+    Your use of the bot is also governed by the <a href="./privacy-policy.html">Privacy Policy</a>.
+    The Privacy Policy explains what information is collected, how it is used, and how users can request support or deletion where applicable.
+  </p>
+
+  <h2>8. Third-Party Services</h2>
+  <p>
+    The bot may depend on third-party platforms and services, including Discord and hosting,
+    analytics, database, payment, logging, AI, or other infrastructure providers.
+  </p>
+  <p>
+    We are not responsible for outages, actions, policies, or failures of third-party services.
+  </p>
+
+  <h2>9. Availability</h2>
+  <p>
+    We do not guarantee uninterrupted access, uptime, availability, feature continuity, or error-free operation.
+    The bot may be modified, suspended, restricted, or discontinued at any time, with or without notice.
+  </p>
+
+  <h2>10. Paid Features and Donations</h2>
+  <p>
+    If the bot offers premium features, subscriptions, donations, or paid access, additional terms
+    may apply and will be presented separately where required.
+  </p>
+  <p>
+    Unless otherwise stated by the operator, payments are non-refundable except where required by law.
+  </p>
+
+  <h2>11. Intellectual Property</h2>
+  <p>
+    The bot, including its code, branding, design, commands, text, logos, and related materials,
+    is owned by or licensed to <strong>[Owner Name or Organization Name]</strong>, unless otherwise stated.
+  </p>
+  <p>
+    You may not copy, sell, sublicense, reverse engineer, redistribute, or create derivative works
+    from the bot except where allowed by law or with written permission.
+  </p>
+
+  <h2>12. Open Source Components</h2>
+  <p>
+    If the bot uses open source software, those components remain subject to their respective licenses.
+  </p>
+
+  <h2>13. Suspension and Termination</h2>
+  <p>
+    We reserve the right to limit, suspend, or terminate access to the bot or specific features at any time,
+    especially for abuse, misuse, legal risk, security concerns, or violations of these Terms.
+  </p>
+  <p>
+    We may also remove the bot from servers or block users, servers, or organizations at our discretion.
+  </p>
+
+  <h2>14. Disclaimers</h2>
+  <p>
+    The bot is provided on an <strong>as is</strong> and <strong>as available</strong> basis.
+    To the fullest extent permitted by law, we disclaim all warranties, express or implied,
+    including merchantability, fitness for a particular purpose, non-infringement, availability, accuracy, and reliability.
+  </p>
+  <p>
+    We do not guarantee that the bot will meet your requirements, prevent moderation mistakes,
+    preserve data, remain secure, or operate without interruption.
+  </p>
+
+  <h2>15. Limitation of Liability</h2>
+  <p>
+    To the fullest extent permitted by law, <strong>[Owner Name or Organization Name]</strong>
+    will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages,
+    or for any loss of profits, revenue, data, goodwill, use, business opportunities, or server functionality,
+    arising out of or related to the use of or inability to use the bot.
+  </p>
+  <p>
+    To the fullest extent permitted by law, the total liability of
+    <strong>[Owner Name or Organization Name]</strong> for any claim related to the bot will not exceed
+    the greater of the amount you paid for the service in the 12 months before the claim arose, or
+    <strong>[insert amount, for example USD $50]</strong>.
+  </p>
+
+  <h2>16. Indemnity</h2>
+  <p>
+    You agree to defend, indemnify, and hold harmless <strong>[Owner Name or Organization Name]</strong>
+    from and against claims, liabilities, damages, losses, and expenses, including reasonable legal fees,
+    arising out of or related to your use of the bot, your server configuration, your content,
+    or your violation of these Terms or applicable law.
+  </p>
+
+  <h2>17. Security</h2>
+  <p>
+    We aim to use reasonable measures to protect the service, but no service is fully secure.
+    You are responsible for protecting your own accounts, systems, tokens, credentials, and server settings.
+  </p>
+
+  <h2>18. Changes to the Service or Terms</h2>
+  <p>
+    We may update the bot, its features, these Terms, or related policies from time to time.
+    Updated Terms become effective when posted, unless a different date is stated.
+  </p>
+  <p>
+    Continued use of the bot after updated Terms are posted means you accept the revised Terms.
+  </p>
+
+  <h2>19. Governing Law</h2>
+  <p>
+    These Terms are governed by the laws of <strong>[Country/State]</strong>, without regard to conflict of law principles.
+  </p>
+  <p>
+    Any disputes arising from these Terms or the use of the bot will be subject to the exclusive jurisdiction
+    of the courts located in <strong>[Location]</strong>, unless applicable law requires otherwise.
+  </p>
+
+  <h2>20. Severability</h2>
+  <p>
+    If any provision of these Terms is found unenforceable, the remaining provisions will remain in full effect.
+  </p>
+
+  <h2>21. Entire Agreement</h2>
+  <p>
+    These Terms, together with the Privacy Policy and any additional terms presented for specific features,
+    form the entire agreement between you and <strong>[Owner Name or Organization Name]</strong>
+    regarding the bot.
+  </p>
+
+  <h2>22. Contact</h2>
+  <p>
+    If you have questions about these Terms, contact:
+  </p>
+  <ul>
+    <li>Email: <a href="mailto:[Contact Email]">[Contact Email]</a></li>
+    <li>Support Server: <a href="[Support Server Link]">[Support Server Link]</a></li>
+    <li>Operator: [Owner Name or Organization Name]</li>
+  </ul>
+</body>
+</html>
